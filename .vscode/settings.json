@@ -1,0 +1,9 @@
+{
+  "markdown.styles": [
+    "style.css"
+  ],
+  "grammarly.files.include": ["**/*.md"],
+  "grammarly.files.exclude": [
+    "**/*.md",
+  ]
+}
